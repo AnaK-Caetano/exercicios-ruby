@@ -54,4 +54,4 @@ Calcule os descontos e o salário líquido, conforme a tabela.
 
 **Obs.:** Salário Bruto - Descontos = Salário Líquido.
 
-[calculo_salario_taxas](../Lista01/8calculo_salario_taxas.rb)
+[calculo_salario_taxas](../Lista01/9calculo_salario_taxas.rb)
