@@ -6,13 +6,13 @@
 
 #### AT1 - Escrevam um algoritmo para
  -  Calcular o dobro da idade da pessoa;
- [dobro_numero](./dobro_numero.rb)
+ [dobro_numero](./Aula1/dobro_numero.rb)
  -  Calcular o IMC de uma pessoa;
- [imc](./imc.rb)
+ [imc](./Aula1/imc.rb)
  -  receber uma nota de um aluno, caso seja menor que 7, avisar que foi reprovado, caso seja maior que 7 avisar que foi aprovado;
- [nota_aprovado](./nota_aprovado.rb)
+ [nota_aprovado](./Aula1/nota_aprovado.rb)
  -  Receber duas alturas e exibir a maior;
- [maior_altura](./maior_altura.rb)
+ [maior_altura](./Aula1/maior_altura.rb)
 
 #### AT2 - Entrada e saída de dados
  -  Criar um simples formulário onde vamos precisar: 
@@ -33,6 +33,6 @@
     
     Status do sono: $sono
 
- [formulario_individual](./formulario_individual.rb)
+ [formulario_individual](./Aula1/formulario_individual.rb)
 
 
